@@ -1,2 +1,2 @@
 # tsvt
-Foreign trade of Russia. Processing customs' statistics.
+Foreign trade of Russia. Analysing customs' statistics.
